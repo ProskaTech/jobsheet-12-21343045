@@ -1,6 +1,26 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9300230&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343045-Farraz Hadyan
+
+a) Inheritance (Pewarisan)
+
+Dalam konsep OOP, inheritance adalah suatu kemampuan membentuk class baru yang memiliki fungsi turunan dan mirip dengan fungsi yang sudah ada sebelumnya. Dengan kata lain, inheritance menurunkan atau mewariskan metode yang dimilikinya kepada class lain.
+Class yang akan diturunkan atau diwariskan bisa disebut sebagai class induk (parent class), super class, atau base class. Sedangkan class yang ‘menerima penurunan’ bisa disebut sebagai class anak (child class), sub class, derived class atau heir class.
+Pada class yang memiliki class turunan disebut dengan parent class atau base class, sedangkan class turunan itu sendiri kerap disebut dengan subclass atau child class yang bisa menurunkan atau mewariskan apa pun dari parent class.
+Oleh karena itu, anggota dari subclass terdiri dari apa pun yang mereka punya dan apa pun yang mereka turunkan dari masing-masing parent class
+
+b) Polymorphism 
+
+Polymorphism merupakan konsep menggunakan suatu fungsi atau atribut tertentu dari suatu base class. Nantinya, fungsi tersebut diimplementasikan oleh children class.
+Dengan begitu, Polymorphism merupakan penggunaan salah satu item seperti fungsi, atribut, atau interface, pada berbagai jenis objek atau entity yang berbeda. 
+
+c) Abstraction 
+
+Definisi istilah tersebut adalah suatu proses di mana programmer menghilangkan atau menghapus karakteristik dari sesuatu untuk mengurangi kompleksitasnya.
+Dalam salah satu contoh Abstraksi ilmu komputer yang paling menonjol yaitu dalam pemrograman berorientasi objek, prinsip ini sering bekerja melalui penggunaan objek dalam kode. Objek-objek ini, sebagai wadah atribut portabel dan struktur kode yang dapat diulang.
+Objek yang dihasilkan itu juga dapat disebut sebagai Abstraksi. Artinya, suatu entitas atau objek yang terdiri dari atribut dan perilaku yang sudah terpilih secara spesifik akan digunakan untuk membentuk entitas atau objek asal tertentu.
+Proses Abstraksi ini mencoba untuk memastikan bahwa objek diberi nama dengan cara yang masuk akal sehingga memiliki semua aspek yang relevan. Namun, perlu kamu ingat bahwa data yang ditampilkan tidak ada yang tidak relevan.
+
+d) Encapsulation 
+
+encapsulation merupakan mekanisme membungkus informasi sehingga dapat menyembunyikan informasi yang seharusnya disembunyikan atau tidak.
+Mekanisme ini membungkus seluruh informasi menjadi satu kesatuan layaknya dibungkus pada sebuah kapsul. Sehingga, dapat menjaga kebutuhan data dengan menerapkan pembatasan akses.
+Enkapsulasi sangat penting dilakukan untuk menjaga kebutuhan program agar dapat diakses sewaktu-waktu, sekaligus menjaga keamanan informasi.
